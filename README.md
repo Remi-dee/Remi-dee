@@ -1,5 +1,5 @@
 ### Hey there 👋
-<br>I am Remi Daniel, a Software Developer that loves to find problems and provide corresponding solution with Javascript<br>I work as Devops @ World Wide Techies Community.<br>I contribute to open source,<br>I love giving back to the community.<br><br>Feel free to search through my repositories but hey please don't plagiarize, kindly make some reference. <br><br>Funfact about me? <br>I think more than i code, sounds weird but i know...
+I am Remi Daniel, a Software Developer that loves to find problems and provide corresponding solution with Javascript<br>I work as Devops @ World Wide Techies Community.<br>I contribute to open source,<br>I love giving back to the community.<br><br>Feel free to search through my repositories but hey please don't plagiarize, kindly make some reference. <br><br>Funfact about me? <br>I think more than i code, sounds weird but i know...
 
 
 ## 🌐 Socials:
