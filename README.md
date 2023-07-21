@@ -1,5 +1,5 @@
 ### Hey there 👋
-I am Remi Daniel, a Software Developer that loves to find problems and provide corresponding solution with Javascript<br> A Lead Developer @ World Wide Techies Community.<br>I contribute to open source,<br>I love giving back to the community.<br><br>Feel free to browse through my repositories but please don't plagiarize, kindly make some reference. <br><br>Funfact about me? <br>I think more than i code, sounds weird but i know🙂
+I am Remi Daniel, a Software Developer that loves to find problems and provide corresponding solution with Javascript<br> Lead Developer @ World Wide Techies Community.<br>I contribute to open source,<br>I love giving back to the community.<br><br>Feel free to browse through my repositories but please don't plagiarize, kindly make some reference. <br><br>Funfact about me? <br>I think more than i code, sounds weird but i know🙂
 
 ## Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/remi-daniel247/)
