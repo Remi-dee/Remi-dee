@@ -1,11 +1,11 @@
 ### Hey there 👋
-I am Remi Daniel, a Software Developer 
-I find problems and provide corresponding solution with Javascript<br> Lead Developer @ World Wide Techies Community.<br>I contribute to open source,<br>I love giving back to the community .<br><br>Feel free to browse my repositories but please don't plagiarize, kindly make some reference. <br><br>Funfact about me? <br>I think more than i code, sounds weird but i know🙂
+I am Remi Daniel, a Software Developer <br>
+I find problems and provide corresponding solution with Javascript<br> Developer @ World Wide Techies Community.<br>I contribute to open source,<br>I love giving back to the community .<br><br>Feel free to browse my repositories but please don't plagiarize, kindly make some reference. <br><br>Funfact about me? <br>I think more than i code, sounds weird but i know🙂
 
 ## Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/remi-daniel247/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/twitter.com/_remidee_)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/remi247.) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/instagram.com/_remidee) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/remi247.)
 
 
 
