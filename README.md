@@ -1,5 +1,5 @@
 ### Hey there 👋
-I am Remi Daniel, a Software Developer <br>
+I am Remi Daniel Aluko, a Software Developer <br>
 I find problems and provide corresponding solution with Javascript<br> Lead Maintainer @ World Wide Techies Community.<br>I actively contribute to open source,<br>I love giving back to the community .<br><br>Feel free to browse my repositories but please don't plagiarize, kindly make some reference. <br><br>Funfact about me? <br>I think more than i code, sounds weird but i know🙂
 
 ## Socials:
